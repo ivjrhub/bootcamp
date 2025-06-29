@@ -1,0 +1,47 @@
+# 🧾 Projeto de Controle de Informações Bancárias e Renda Pessoal
+
+Este repositório contém uma planilha desenvolvida para facilitar a organização e o registro de informações bancárias, informes de rendimento e movimentações financeiras pessoais. A estrutura foi pensada para auxiliar no preenchimento de dados para comprovação de renda, organização pessoal ou apresentação documental.
+
+## 📂 Estrutura da Planilha
+
+A planilha é composta por quatro abas principais:
+
+### 1. `TITULAR`
+Contém os campos para preenchimento dos dados do titular. Ideal para registrar:
+- Nome completo
+- CPF
+- Endereço
+- Contato
+
+### 2. `INFORMES`
+Seção destinada ao registro dos informes de rendimentos bancários, com orientações para inserção dos valores declarados pelas instituições financeiras.
+
+### 3. `NOTAS`
+Área para controle de extratos bancários e holerites, com entradas e saídas organizadas mês a mês. Facilita o acompanhamento da movimentação financeira individual.
+
+### 4. `TABELAS`
+Inclui uma tabela com os principais bancos do país, seus códigos e respectivos sites, servindo como base de consulta para identificação rápida das instituições financeiras.
+
+## 🛠️ Funcionalidades
+
+- Organização centralizada de dados financeiros.
+- Facilidade para preenchimento de documentos de comprovação de renda.
+- Base de dados bancária atualizada.
+- Pronto para impressão ou exportação em PDF.
+
+## ✅ Requisitos
+
+- Microsoft Excel ou Google Sheets (preferencialmente atualizado).
+- Conhecimento básico de planilhas para edição e preenchimento dos campos.
+
+## 📌 Observações
+
+- A planilha é editável e pode ser adaptada conforme as necessidades do usuário.
+- Recomenda-se a proteção das abas com senha para evitar alterações indesejadas, caso haja informações sensíveis.
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+---
+
